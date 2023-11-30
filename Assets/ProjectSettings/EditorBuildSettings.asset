@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Character Selection.unity
+    guid: 16a0fb7338a442147b8d20689de72a10
+  - enabled: 1
+    path: Assets/Scenes/Outside.unity
+    guid: b49f43791cabdef44a23d55c595b09c7
+  - enabled: 1
+    path: Assets/Scenes/Outside2.unity
+    guid: cb75d8b741b8fdf499e337900644f515
+  - enabled: 1
+    path: Assets/Scenes/Reception.unity
+    guid: 1b0ce795b4d03f245bf9629c3cb50177
+  - enabled: 1
+    path: Assets/Scenes/Customer Service.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Auditorium.unity
+    guid: 10ee2f5acfb045e48b206a2601bbef0c
+  - enabled: 1
+    path: Assets/Scenes/6 Doors.unity
+    guid: 860f755e79e121b428e6693d1b084236
+  - enabled: 1
+    path: Assets/Scenes/Screens Room.unity
+    guid: 8a65ecae20ef85641b7e3f2e20db7d32
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}
